@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "class": "extas\\components\\plugins\\parameters\\ParameterPluginClassGet",
+      "stage": "extas.parameter.class.value.get"
+    },
+    {
+      "class": "extas\\components\\plugins\\parameters\\ParameterPluginClassSet",
+      "stage": "extas.parameter.class.value.set"
+    }
+  ]
+}

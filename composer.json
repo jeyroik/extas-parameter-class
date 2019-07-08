@@ -1,0 +1,14 @@
+{
+  "name": "jeyroik/extas-parameter-class",
+  "description": "Extas parameter class template package",
+  "require": {
+    "jeyroik/extas-foundation":"*",
+    "jeyroik/extas-installer":"*",
+    "jeyroik/extas-base":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}

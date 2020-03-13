@@ -7,13 +7,12 @@ use extas\interfaces\parameters\IParameter;
 /**
  * Class ParameterPluginClassSet
  *
+ * @stage extas.parameter.class.value.set
  * @package extas\components\plugins\parameters
  * @author jeyroik@gmail.com
  */
 class ParameterPluginClassSet extends Plugin
 {
-    public $preDefinedStage = 'extas.parameter.class.value.set';
-
     /**
      * @param IParameter $parameter
      * @param mixed $value

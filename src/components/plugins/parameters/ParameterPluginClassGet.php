@@ -8,13 +8,12 @@ use extas\interfaces\parameters\IParameter;
 /**
  * Class ParameterPluginClassGet
  *
+ * @stage extas.parameter.class.value.get
  * @package extas\components\plugins\parameters
  * @author jeyroik@gmail.com
  */
 class ParameterPluginClassGet extends Plugin
 {
-    public $preDefinedStage = 'extas.parameter.class.value.get';
-
     /**
      * @param IParameter $parameter
      * @param string $class

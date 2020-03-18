@@ -1,4 +1,5 @@
 {
+  "class": "extas/parameter-class",
   "plugins": [
     {
       "class": "extas\\components\\plugins\\parameters\\ParameterPluginClassGet",

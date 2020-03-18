@@ -2,7 +2,6 @@
   "name": "jeyroik/extas-parameter-class",
   "description": "Extas parameter class template package",
   "require": {
-    "jeyroik/extas-foundation":"2.*",
     "jeyroik/extas-installer":"2.*",
     "jeyroik/extas-base":"1.*"
   },
